@@ -6,3 +6,4 @@ Challenge: Handle cases where multiple keys have the same value.
 =end
 
 
+#transform_keys or invert or both can be used in it
